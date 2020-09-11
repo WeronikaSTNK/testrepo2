@@ -1,3 +1,6 @@
 h1 {
-    font-size: 3em;
+    font-size: 30em;
+    line-height: 1em;
+    color:pink;
+    text-transform: uppercase
 }
